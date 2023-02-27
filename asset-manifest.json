@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Blitzpath-deploy/static/css/main.53a9bbb3.css",
-    "main.js": "/Blitzpath-deploy/static/js/main.3183e562.js",
+    "main.css": "/Blitzpath-deploy/static/css/main.c320833a.css",
+    "main.js": "/Blitzpath-deploy/static/js/main.da6b6f1a.js",
+    "static/media/tech.jpg": "/Blitzpath-deploy/static/media/tech.4512b0d29aa2e1b338a2.jpg",
+    "static/media/team.jpg": "/Blitzpath-deploy/static/media/team.b4bdc4db026dfcbc4d7c.jpg",
+    "static/media/IC2.jpg": "/Blitzpath-deploy/static/media/IC2.05c04c3e9b306f2e37f5.jpg",
     "static/media/Consulting.jpg": "/Blitzpath-deploy/static/media/Consulting.5cd35516748790fb6a3d.jpg",
     "static/media/animate.png": "/Blitzpath-deploy/static/media/animate.5fc8560bf4e1de3c34d9.png",
     "static/media/Technology.jpg": "/Blitzpath-deploy/static/media/Technology.ababa12f75eef79d77c6.jpg",
-    "static/media/Image1.jpeg": "/Blitzpath-deploy/static/media/Image1.f9dfcce95d123d929c0b.jpeg",
-    "static/media/Image4.jpeg": "/Blitzpath-deploy/static/media/Image4.466175dbcb18d020823a.jpeg",
+    "static/media/IC1.jpg": "/Blitzpath-deploy/static/media/IC1.de5659898d3bfc5eb8ea.jpg",
     "static/media/Analytics.jpg": "/Blitzpath-deploy/static/media/Analytics.e144b915838a492c1aed.jpg",
     "static/media/animate3.png": "/Blitzpath-deploy/static/media/animate3.e77f245bd4975aa7585b.png",
-    "static/media/Image3.jpeg": "/Blitzpath-deploy/static/media/Image3.84ecee9a467fd0f2def5.jpeg",
     "static/media/Sourcing.jpeg": "/Blitzpath-deploy/static/media/Sourcing.84ecee9a467fd0f2def5.jpeg",
-    "static/media/Image2.jpeg": "/Blitzpath-deploy/static/media/Image2.7a67e28999e742551cda.jpeg",
     "static/media/animte2.png": "/Blitzpath-deploy/static/media/animte2.62bb3395837cc1fd9424.png",
     "static/media/Blitzpath.jpeg": "/Blitzpath-deploy/static/media/Blitzpath.1dfdb9e54c9ed81c44ea.jpeg",
     "static/media/Blitzpathlogo.jpeg": "/Blitzpath-deploy/static/media/Blitzpathlogo.da6d3bd94c9bf66465f0.jpeg",
@@ -20,11 +20,11 @@
     "static/media/slick.ttf": "/Blitzpath-deploy/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Blitzpath-deploy/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Blitzpath-deploy/index.html",
-    "main.53a9bbb3.css.map": "/Blitzpath-deploy/static/css/main.53a9bbb3.css.map",
-    "main.3183e562.js.map": "/Blitzpath-deploy/static/js/main.3183e562.js.map"
+    "main.c320833a.css.map": "/Blitzpath-deploy/static/css/main.c320833a.css.map",
+    "main.da6b6f1a.js.map": "/Blitzpath-deploy/static/js/main.da6b6f1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.53a9bbb3.css",
-    "static/js/main.3183e562.js"
+    "static/css/main.c320833a.css",
+    "static/js/main.da6b6f1a.js"
   ]
 }
