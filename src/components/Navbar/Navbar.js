@@ -20,7 +20,7 @@ function Navbar() {
                 <li><a href="#">Services And Products</a></li>
                 <li><a href="#">Customer Stories</a></li>
                 <li><a href="#">About Us</a></li>
-                <li><a href="#">Career</a></li>
+                <li><a href="#">Careers</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
         </nav>
