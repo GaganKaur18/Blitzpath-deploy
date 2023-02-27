@@ -3,10 +3,10 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "./style.css"
 import React from 'react'
-import Image3 from '../../images/Image1.jpeg'
-import Image2 from '../../images/Image2.jpeg'
-import Image1 from '../../images/Image3.jpeg'
-import Image4 from '../../images/Image4.jpeg'
+import Image3 from '../../images/team.jpg'
+import Image2 from '../../images/IC2.jpg'
+import Image1 from '../../images/IC1.jpg'
+import Image4 from '../../images/tech.jpg'
 const ImageSlider = () => {
 //   console.log(Images)
   let Images = [Image1,Image2,Image3,Image4]
