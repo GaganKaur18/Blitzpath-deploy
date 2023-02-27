@@ -16,7 +16,7 @@ function Navbar() {
         </div>
         <nav className='desktop-device'>
             <ul  className='navlink'>
-                <li><a href="#">Home</a></li>
+//                 <li><a href="#">Home</a></li>
                 <li><a href="#">Services And Products</a></li>
                 <li><a href="#">Customer Stories</a></li>
                 <li><a href="#">About Us</a></li>
