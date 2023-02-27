@@ -190,7 +190,7 @@ color: #f98416
 @media screen and (max-width: 400px) {
   div.container{
     height: 67px;
-    border-bottom: 3px solid #6d6ff1;
+/*     border-bottom: 3px solid #6d6ff1; */
   }
  nav.desktop-device{
   display: none;
