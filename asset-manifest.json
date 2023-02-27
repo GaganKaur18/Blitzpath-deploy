@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Blitzpath-deploy/static/css/main.53a9bbb3.css",
-    "main.js": "/Blitzpath-deploy/static/js/main.78c27def.js",
+    "main.js": "/Blitzpath-deploy/static/js/main.3183e562.js",
     "static/media/Consulting.jpg": "/Blitzpath-deploy/static/media/Consulting.5cd35516748790fb6a3d.jpg",
     "static/media/animate.png": "/Blitzpath-deploy/static/media/animate.5fc8560bf4e1de3c34d9.png",
     "static/media/Technology.jpg": "/Blitzpath-deploy/static/media/Technology.ababa12f75eef79d77c6.jpg",
@@ -21,10 +21,10 @@
     "static/media/slick.woff": "/Blitzpath-deploy/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Blitzpath-deploy/index.html",
     "main.53a9bbb3.css.map": "/Blitzpath-deploy/static/css/main.53a9bbb3.css.map",
-    "main.78c27def.js.map": "/Blitzpath-deploy/static/js/main.78c27def.js.map"
+    "main.3183e562.js.map": "/Blitzpath-deploy/static/js/main.3183e562.js.map"
   },
   "entrypoints": [
     "static/css/main.53a9bbb3.css",
-    "static/js/main.78c27def.js"
+    "static/js/main.3183e562.js"
   ]
 }
