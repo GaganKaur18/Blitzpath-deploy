@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Blitzpath-deploy/static/css/main.c320833a.css",
-    "main.js": "/Blitzpath-deploy/static/js/main.da6b6f1a.js",
+    "main.js": "/Blitzpath-deploy/static/js/main.b0809fe2.js",
     "static/media/tech.jpg": "/Blitzpath-deploy/static/media/tech.4512b0d29aa2e1b338a2.jpg",
     "static/media/team.jpg": "/Blitzpath-deploy/static/media/team.b4bdc4db026dfcbc4d7c.jpg",
     "static/media/IC2.jpg": "/Blitzpath-deploy/static/media/IC2.05c04c3e9b306f2e37f5.jpg",
@@ -21,10 +21,10 @@
     "static/media/slick.woff": "/Blitzpath-deploy/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Blitzpath-deploy/index.html",
     "main.c320833a.css.map": "/Blitzpath-deploy/static/css/main.c320833a.css.map",
-    "main.da6b6f1a.js.map": "/Blitzpath-deploy/static/js/main.da6b6f1a.js.map"
+    "main.b0809fe2.js.map": "/Blitzpath-deploy/static/js/main.b0809fe2.js.map"
   },
   "entrypoints": [
     "static/css/main.c320833a.css",
-    "static/js/main.da6b6f1a.js"
+    "static/js/main.b0809fe2.js"
   ]
 }
