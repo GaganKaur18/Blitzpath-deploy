@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/g/static/css/main.808cd061.css",
+    "main.js": "/g/static/js/main.668b73e5.js",
+    "static/media/Consulting.jpg": "/g/static/media/Consulting.5cd35516748790fb6a3d.jpg",
+    "static/media/animate.png": "/g/static/media/animate.5fc8560bf4e1de3c34d9.png",
+    "static/media/Technology.jpg": "/g/static/media/Technology.ababa12f75eef79d77c6.jpg",
+    "static/media/Image1.jpeg": "/g/static/media/Image1.f9dfcce95d123d929c0b.jpeg",
+    "static/media/Image4.jpeg": "/g/static/media/Image4.466175dbcb18d020823a.jpeg",
+    "static/media/Analytics.jpg": "/g/static/media/Analytics.e144b915838a492c1aed.jpg",
+    "static/media/animate3.png": "/g/static/media/animate3.e77f245bd4975aa7585b.png",
+    "static/media/Image3.jpeg": "/g/static/media/Image3.84ecee9a467fd0f2def5.jpeg",
+    "static/media/Sourcing.jpeg": "/g/static/media/Sourcing.84ecee9a467fd0f2def5.jpeg",
+    "static/media/Image2.jpeg": "/g/static/media/Image2.7a67e28999e742551cda.jpeg",
+    "static/media/animte2.png": "/g/static/media/animte2.62bb3395837cc1fd9424.png",
+    "static/media/Blitzpath.jpeg": "/g/static/media/Blitzpath.1dfdb9e54c9ed81c44ea.jpeg",
+    "static/media/Blitzpathlogo.jpeg": "/g/static/media/Blitzpathlogo.da6d3bd94c9bf66465f0.jpeg",
+    "static/media/slick.svg": "/g/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/g/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/g/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/g/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/g/index.html",
+    "main.808cd061.css.map": "/g/static/css/main.808cd061.css.map",
+    "main.668b73e5.js.map": "/g/static/js/main.668b73e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.808cd061.css",
+    "static/js/main.668b73e5.js"
+  ]
+}
